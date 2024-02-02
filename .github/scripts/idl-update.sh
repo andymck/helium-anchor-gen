@@ -1,6 +1,6 @@
 #!/bin/bash
 
-OWNER=helium
+OWNER=andymck
 REPO=helium-program-library
 
 function version_from_tag() {
